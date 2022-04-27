@@ -20,7 +20,7 @@ There's also a questionnaire/assessment feature to assist you estimate the inten
 This project has been built with a lot of love, consideration to help others with their mental health and Python, using:
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [Bootstrap Component](https://www.bootstrapcdn.com)
-- Calendar JS
+- [Calendar JS](https://github.com/jackducasse/caleandar)
 - [Weather API](https://www.weatherapi.com/)
 - SQLite
 
