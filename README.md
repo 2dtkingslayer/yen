@@ -1,6 +1,6 @@
 # Yen - A Daily Mental Health Tracker
-<img style="width: 80%;height: auto;" alt="Desktop - 4" src="https://user-images.githubusercontent.com/54951459/160291636-fc6bdcdb-5bd0-4b90-866e-16440d67e994.png">
-<img style="width: 100%;height: auto;" alt="Desktop - 2" src="https://user-images.githubusercontent.com/54951459/160291637-7a14143a-038c-47b0-b26e-1112e6c2e965.png">
+<img style="width: 70%;height: auto;" alt="Desktop - 4" src="https://user-images.githubusercontent.com/54951459/160291636-fc6bdcdb-5bd0-4b90-866e-16440d67e994.png">
+<img style="width: 70%;height: auto;" alt="Desktop - 2" src="https://user-images.githubusercontent.com/54951459/160291637-7a14143a-038c-47b0-b26e-1112e6c2e965.png">
 
 ## Inspiration
 Finding mental health treatments can be difficult, especially in today's technologically advanced society with so many possibilities. If you've wanted to address a mental health issue but have been hesitant to do so in person, simple software that is meant to help you navigate your mental health journey and take the uncertainty out of obtaining the help you need.
@@ -45,6 +45,6 @@ flask run
 ```
 
 ## What's next for yen - daily mental health tracker
-- Implement a database for user to:
-1. Store daily progress
-2. Display up-to-date news about health
+Implement a database for user to:
+- Store daily progress
+- Display up-to-date news about health
